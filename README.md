@@ -12,3 +12,5 @@ The pendulum will swing farther than its equillibrium position due to the sudden
 * continue to fall exhibiting a more rapid fall than if it remained stationary 
 * cause the pendulum to have a larger swing 
 * have a faster descent 
+
+![commited changes](https://github.com/Ms091704/images/blob/main/history.pdf)
