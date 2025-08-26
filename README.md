@@ -1,6 +1,7 @@
 # Getting started with github and answering pendulum questions 
 
 ### [what is a pendulum?](https://www.britannica.com/technology/pendulum)
+
 ## How do you expect the rigid pendulum will respond if the frequency of the drive is much higher or much lower than the natural frequency $\omega = \sqrt{g/L}$ of the pendulum (for small oscillations) and the amplitude is small compared to the size of the pendulum?
 The pedulum will exibit a _small amplitude of oscillation_ as there will be a minimal responce. 
 
